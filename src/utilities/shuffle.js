@@ -1,3 +1,5 @@
+// Combine and shuffle two arrays
+
 const shuffle = () => {
   const assets = [
     { image: "/assets/css.png" },
